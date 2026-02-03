@@ -1,5 +1,7 @@
 # VibeEdit AI
 
+[![Build Flutter APK](https://github.com/praaatap/VibeEdit-Ai/actions/workflows/flutter_build.yml/badge.svg)](https://github.com/praaatap/VibeEdit-Ai/actions/workflows/flutter_build.yml)
+
 Professional AI-Powered Video Editing via your Smartphone.
 
 ## Project Structure
