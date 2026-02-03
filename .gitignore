@@ -1,0 +1,22 @@
+# General
+.DS_Store
+.idea/
+.vscode/
+
+# Flutter
+vibeedit/.dart_tool/
+vibeedit/.flutter-plugins
+vibeedit/.flutter-plugins-dependencies
+vibeedit/build/
+vibeedit/ios/Flutter/Generated.xcconfig
+vibeedit/ios/Flutter/flutter_export_environment.sh
+vibeedit/android/.gradle
+vibeedit/.pub-cache/
+vibeedit/pubspec.lock
+
+# Python / Backend
+vibeedit-backend/__pycache__/
+vibeedit-backend/*.py[cod]
+vibeedit-backend/venv/
+vibeedit-backend/.env
+vibeedit-backend/.pytest_cache/
